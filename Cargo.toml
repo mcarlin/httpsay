@@ -2,6 +2,11 @@
 name = "httpsay"
 version = "0.1.0"
 edition = "2021"
+description = "A high performance mock http/s server"
+license-file = "LICENSE"
+repository = "https://github.com/mcarlin/httpsay"
+keywords = ["http", "cli", "utility"]
+categories = ["development-tools", "command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
